@@ -1,0 +1,4 @@
+﻿keg_id,ip,location,reading_id,reading_order,reading_value,time
+123,http://172.16.100.8,us,10292,1,35,10/1/18 0:00
+123,http://172.16.100.8,us,10292,2,45,10/1/18 0:00
+123,http://172.16.100.8,us,10292,3,32,10/1/18 0:00
